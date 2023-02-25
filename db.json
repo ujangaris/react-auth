@@ -255,7 +255,7 @@
     },
     {
       "id": 24,
-      "username": "Assumenda dolorum pr",
+      "username": "asu",
       "name": "Exercitationem exped",
       "password": "Pa$$w0rd!",
       "email": "rusuza@mailinator.com",
@@ -263,6 +263,17 @@
       "country": "mekah",
       "address": "Aut consequat Rerum",
       "gender": "male"
+    },
+    {
+      "id": 25,
+      "username": "dada",
+      "name": "In sint distinctio ",
+      "password": "1",
+      "email": "radatije@mailinator.com",
+      "phone": "23",
+      "country": "mekah",
+      "address": "Nihil aliqua Totam ",
+      "gender": "female"
     }
   ]
 }

@@ -1,7 +1,7 @@
 // rfce
 import React, { useState } from 'react';
 import { toast } from 'react-toastify';
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 // inport IsValidate
 import { IsValidate } from './IsValidate';
 
@@ -193,9 +193,10 @@ function Register() {
               <button type='submit' className='btn btn-primary mx-2'>
                 ReGister
               </button>
-              <a href='#' className='btn btn-danger'>
+              {/* import dan pasang Link dari react-router-dom */}
+              <Link to='/' className='btn btn-danger'>
                 Back
-              </a>
+              </Link>
             </div>
           </div>
         </form>
