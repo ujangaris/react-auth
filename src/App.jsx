@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import reactLogo from './assets/react.svg';
-import './App.css';
+// import './App.css';
+import './style.css';
+
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './Home';
 import Login from './Login';
@@ -13,7 +15,7 @@ function App() {
   return (
     <div className='App'>
       <BrowserRouter>
-        <ToastContainer></ToastContainer>
+        <ToastContainer theme='colored'></ToastContainer>
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/login' element={<Login />} />

@@ -1,0 +1,268 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Perferendis quae tot",
+      "name": "Natus nostrud aliqua",
+      "password": "Pa$$w0rd!",
+      "email": "suxuf@mailinator.com",
+      "phone": "21",
+      "country": "mekah",
+      "address": "Id nostrum nisi ipsa",
+      "gender": "female"
+    },
+    {
+      "id": 2,
+      "username": "",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "indonesia",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "username": "dasads",
+      "name": "hero",
+      "password": "1",
+      "email": "hero@mail.com",
+      "phone": "08",
+      "country": "indonesia",
+      "address": "adasda dsdadada dsadasdadaf  f fdgdgdfgd",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "username": "",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "indonesia",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": 5,
+      "username": "",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "indonesia",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": 6,
+      "username": "",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "indonesia",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": 7,
+      "username": "",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "indonesia",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": 8,
+      "username": "adsad",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "indonesia",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": 9,
+      "username": "",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "indonesia",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": 10,
+      "username": "",
+      "name": "",
+      "password": "",
+      "email": "",
+      "phone": "",
+      "country": "indonesia",
+      "address": "",
+      "gender": "male"
+    },
+    {
+      "id": 11,
+      "username": "adad",
+      "name": "adada",
+      "password": "dadsa",
+      "email": "adad@gmail.com",
+      "phone": "081318866499",
+      "country": "indonesia",
+      "address": "jl. Satria IV no.134 Rt/Rw 007/004 Grogol Jakarta Barat",
+      "gender": "male"
+    },
+    {
+      "id": 12,
+      "username": "adas",
+      "name": "Ujang Arisandi",
+      "password": "dada",
+      "email": "ujangaja@g",
+      "phone": "081318866499",
+      "country": "indonesia",
+      "address": "jl. Satria IV no.134 Rt/Rw 007/004 Grogol Jakarta Barat",
+      "gender": "male"
+    },
+    {
+      "id": 13,
+      "username": "dadada",
+      "name": "dadad",
+      "password": "dasdasd",
+      "email": "ujangaja@test.co",
+      "phone": "081318866499",
+      "country": "indonesia",
+      "address": "jl. Satria IV no.134 Rt/Rw 007/004 Grogol Jakarta Barat",
+      "gender": "male"
+    },
+    {
+      "id": 14,
+      "username": "adsadsa",
+      "name": "Ujang Arisandi",
+      "password": "dddd",
+      "email": "ujangaja@gmail.com",
+      "phone": "081318866499",
+      "country": "",
+      "address": "jl. Satria IV no.134 Rt/Rw 007/004 Grogol Jakarta Barat",
+      "gender": "male"
+    },
+    {
+      "id": 15,
+      "username": "adad",
+      "name": "Ujang Arisandi",
+      "password": "adsada",
+      "email": "ujangaja@gmail.com",
+      "phone": "081318866499",
+      "country": "indonesia",
+      "address": "jl. Satria IV no.134 Rt/Rw 007/004 Grogol Jakarta Barat",
+      "gender": "male"
+    },
+    {
+      "id": 16,
+      "username": "des",
+      "name": "Ujang Arisandi",
+      "password": "1",
+      "email": "ujangaja@gmail.com",
+      "phone": "081318866499",
+      "country": "indonesia",
+      "address": "jl. Satria IV no.134 Rt/Rw 007/004 Grogol Jakarta Barat",
+      "gender": "male"
+    },
+    {
+      "id": 17,
+      "username": "des",
+      "name": "Ujang Arisandi",
+      "password": "1",
+      "email": "ujangaja@gmail.com",
+      "phone": "081318866499",
+      "country": "indonesia",
+      "address": "jl. Satria IV no.134 Rt/Rw 007/004 Grogol Jakarta Barat",
+      "gender": "male"
+    },
+    {
+      "id": 18,
+      "username": "des",
+      "name": "Ujang Arisandi",
+      "password": "1",
+      "email": "ujangaja@gmail.com",
+      "phone": "081318866499",
+      "country": "indonesia",
+      "address": "jl. Satria IV no.134 Rt/Rw 007/004 Grogol Jakarta Barat",
+      "gender": "male"
+    },
+    {
+      "id": 19,
+      "username": "Illum aliqua Fugia",
+      "name": "Quo fugiat ut adipis",
+      "password": "Pa$$w0rd!",
+      "email": "cekaqug@mailinator.com",
+      "phone": "70",
+      "country": "indonesia",
+      "address": "Deleniti nostrud qui",
+      "gender": "male"
+    },
+    {
+      "id": 20,
+      "username": "Illum aliqua Fugia",
+      "name": "Quo fugiat ut adipis",
+      "password": "Pa$$w0rd!",
+      "email": "cekaqug@mailinator.com",
+      "phone": "70",
+      "country": "indonesia",
+      "address": "Deleniti nostrud qui",
+      "gender": "male"
+    },
+    {
+      "id": 21,
+      "username": "Illum aliqua Fugia",
+      "name": "Quo fugiat ut adipis",
+      "password": "Pa$$w0rd!",
+      "email": "cekaqug@mailinator.com",
+      "phone": "70",
+      "country": "indonesia",
+      "address": "Deleniti nostrud qui",
+      "gender": "male"
+    },
+    {
+      "id": 22,
+      "username": "Illum aliqua Fugia",
+      "name": "Quo fugiat ut adipis",
+      "password": "Pa$$w0rd!",
+      "email": "cekaqug@mailinator.com",
+      "phone": "70",
+      "country": "indonesia",
+      "address": "Deleniti nostrud qui",
+      "gender": "male"
+    },
+    {
+      "id": 23,
+      "username": "Pariatur Duis volup",
+      "name": "Veniam ad incidunt",
+      "password": "Pa$$w0rd!",
+      "email": "zikucezy@mailinator.com",
+      "phone": "76",
+      "country": "mekah",
+      "address": "Odio vero eius repre",
+      "gender": "female"
+    },
+    {
+      "id": 24,
+      "username": "Assumenda dolorum pr",
+      "name": "Exercitationem exped",
+      "password": "Pa$$w0rd!",
+      "email": "rusuza@mailinator.com",
+      "phone": "26",
+      "country": "mekah",
+      "address": "Aut consequat Rerum",
+      "gender": "male"
+    }
+  ]
+}
